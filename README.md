@@ -12,12 +12,18 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Problem
+
+![](/design/desktop-design.jpg)
+
+Soltution
+
+![](/images/Home.JPG)
 
 
 ### Links
 
-- Live Site URL: [Mastza28 Four Card Section](https://your-live-site-url.com)
+- Live Site URL: [Mastza28 Four Card Section](https://mastza28.github.io/four-card-feature-section-master/)
 
 
 ### Author
